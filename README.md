@@ -27,19 +27,13 @@ Python | Scapy | Pandas | Streamlit | Altair | scikit-learn | NumPy
 
 6. Installation & Setup
 # Clone the repo
-git clone <repo_url>
-
+git clone <>
 # Install dependencies
 pip install -r requirements.txt
-
 # Run the dashboard
 streamlit run dashboard.py
 
-7. Screenshots / Demo
-(Add screenshots or GIFs of your dashboard here)
-
-8. Future Enhancements
+7. Future Enhancements
 Integration with cloud services (AWS EC2) for scalable monitoring
-
 Automated mitigation or firewall suggestions
 Support for more traffic categories and protocols
