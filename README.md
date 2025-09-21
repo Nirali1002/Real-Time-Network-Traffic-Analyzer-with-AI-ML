@@ -27,7 +27,7 @@ Python | Scapy | Pandas | Streamlit | Altair | scikit-learn | NumPy
 
 6. Installation & Setup
 # Clone the repo
-git clone <>
+git clone <https://github.com/Nirali1002/Real-Time-Network-Traffic-Analyzer-with-AI-ML.git>
 # Install dependencies
 pip install -r requirements.txt
 # Run the dashboard
